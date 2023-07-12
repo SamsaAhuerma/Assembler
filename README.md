@@ -1,6 +1,7 @@
 # Assembler
 -Proyectos en Lenguaje Assembler-
-.Proyecto en Assembler(1):
+
+.Proyecto en Assembler(1): 
 Trabajo de Laboratorio: VC FrameBuffer en QEMU emulando una RPi3.
 
 Los objetivos de este Laboratorio fueron:
@@ -19,7 +20,7 @@ Y al correr el programa en la segunda carpeta se muestra una simulación en vide
 
 Integrantes del Laboratorio: Ahuerma Samsa y Volpini Bruno.
 
-.Proyecto en Assembler(2):
+.Proyecto en Assembler(2): 
 Trabajo de Laboratorio: VC FrameBuffer en QEMU emulando una RPi3.
 Los objetivos de este Laboratorio fueron:
 
